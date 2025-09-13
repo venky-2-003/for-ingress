@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Change to your own Docker Hub repo details
-        DOCKER_IMAGE = "your-dockerhub-username/electro-store"
+        DOCKER_IMAGE = "lavetivenkatesh/electro-store"
         IMAGE_TAG    = "latest"
     }
 
